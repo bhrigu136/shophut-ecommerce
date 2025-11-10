@@ -191,15 +191,9 @@ npm start
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – you are free to use, modify, and distribute it with attribution.
-
----
-
 ## 💬 Contact
 
-**Author:** Your Name  
-**GitHub:** [@yourgithubusername](https://github.com/yourgithubusername)  
-**Email:** your.email@example.com  
+**Author:** Tamanna Bhrigunath  
+**GitHub:** [@bhrigu136](https://github.com/bhrigu136)  
+**Email:** bhrigunathtamanna@gmail.com  
 
